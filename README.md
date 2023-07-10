@@ -1,4 +1,5 @@
 # Kaggle-s-Walmart-Database-Data-Exploration
+Database link: https://www.kaggle.com/datasets/yasserh/walmart-dataset
 the code is an exploration of various factors related to sales in the Walmart dataset. Here's a breakdown of each section:
 
 Section 1: Exploring Holidays
