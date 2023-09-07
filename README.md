@@ -65,9 +65,9 @@ We begin with the Python code to explore the Walmart dataset. The code performs 
 ## Tableau Visualization
 ![Overview](https://github.com/ahmadMuhammadGd/Kaggle-s-Walmart-Database-Data-Exploration-and-visualization/assets/121247258/32650106-a340-49f1-ba65-d01db682d446)
 The Tableau visualization provides a dynamic and interactive representation of the sales data. It offers insights into various aspects of sales trends and relationships between key factors.
-https://public.tableau.com/app/profile/ahmad.muhammad7652/viz/walmart_16939729940010/Intro?publish=yes
 ![Correlation](https://github.com/ahmadMuhammadGd/Kaggle-s-Walmart-Database-Data-Exploration-and-visualization/assets/121247258/002ed943-708a-482a-ba97-6a4f2c0e56e5)
 ![Common patterns](https://github.com/ahmadMuhammadGd/Kaggle-s-Walmart-Database-Data-Exploration-and-visualization/assets/121247258/9f36d110-9edd-4d55-850a-e99c5a0ac7d0)
+# Tableau visualization link: https://public.tableau.com/app/profile/ahmad.muhammad7652/viz/walmart_16939729940010/Intro?publish=yes
 
 ## Data Analysis Insights
 The analysis reveals interesting patterns, such as increased sales leading up to Christmas and Thanksgiving, followed by declines. Despite these declines, sales remain relatively high, possibly due to holiday preparations. The impact of factors like temperature, unemployment, fuel prices, and CPI on sales is explored, providing valuable insights for further analysis and decision-making.
