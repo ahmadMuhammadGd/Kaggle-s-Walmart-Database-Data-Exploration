@@ -1,5 +1,6 @@
 ## Kaggle-s-Walmart-Database-Data-Exploration
-![Intro](https://github.com/ahmadMuhammadGd/Kaggle-s-Walmart-Database-Data-Exploration-and-visualization/assets/121247258/833ef47c-1abe-411a-ad02-555958d8162f)
+![Intro](https://github.com/ahmadMuhammadGd/Kaggle-s-Walmart-Database-Data-Exploration-and-Tableau-visualization/assets/121247258/a34c7c07-363b-44fe-8a34-4960b76e3b4d)
+
 
 Database link: https://www.kaggle.com/datasets/yasserh/walmart-dataset
 SQL code is an exploration of various factors related to sales in the Walmart dataset. Here's a breakdown of each section:
@@ -65,7 +66,7 @@ We begin with the Python code to explore the Walmart dataset. The code performs 
 ## Tableau Visualization
 ![Overview](https://github.com/ahmadMuhammadGd/Kaggle-s-Walmart-Database-Data-Exploration-and-visualization/assets/121247258/32650106-a340-49f1-ba65-d01db682d446)
 The Tableau visualization provides a dynamic and interactive representation of the sales data. It offers insights into various aspects of sales trends and relationships between key factors.
-![Correlation](https://github.com/ahmadMuhammadGd/Kaggle-s-Walmart-Database-Data-Exploration-and-visualization/assets/121247258/002ed943-708a-482a-ba97-6a4f2c0e56e5)
+![Correlation](https://github.com/ahmadMuhammadGd/Kaggle-s-Walmart-Database-Data-Exploration-and-Tableau-visualization/assets/121247258/548c378c-aa55-4d0b-9bf4-d242a40a4041)
 ![Common patterns](https://github.com/ahmadMuhammadGd/Kaggle-s-Walmart-Database-Data-Exploration-and-visualization/assets/121247258/9f36d110-9edd-4d55-850a-e99c5a0ac7d0)
 # Tableau visualization link: https://public.tableau.com/app/profile/ahmad.muhammad7652/viz/walmart_16939729940010/Intro?publish=yes
 
